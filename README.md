@@ -1,6 +1,6 @@
 # Futebol OpenGL: Campo, bola, jogadores e placar interativo
 
-Instruções:
+### Instruções:
 
 a) Desenhe um Campo de Futebol: retas/circunferências, etc;
 
@@ -14,4 +14,12 @@ e) Crie os jogadores (liberado o uso de ferramentas (Blender, etc) para este req
 
 f) Crie uma mecanica de movimentação dos jogadores atrás da bolsa (usar criatividade!);
 
-g) Qualidade; 
+g) Qualidade;
+
+
+### Prints
+
+![Print 1](img/print_1.png)
+![Print 2](img/print_2.png)
+![Print 3](img/print_3.png)
+![Print 4](img/print_4.png)
