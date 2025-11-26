@@ -16,6 +16,14 @@ f) Crie uma mecanica de movimentação dos jogadores atrás da bolsa (usar criat
 
 g) Qualidade;
 
+### Instruções 2:
+
+a) Criar a iluminação da Modelagem, explorando diferentes Fontes de Luz, Aspectos Geométricos e Modelos de Iluminação;
+
+b) Aplicar mapeamento de textura aos objetos;
+
+c) Refinar a modelagem realizada;
+
 
 ### Prints
 
