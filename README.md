@@ -25,9 +25,15 @@ b) Aplicar mapeamento de textura aos objetos;
 c) Refinar a modelagem realizada;
 
 
-### Prints
+### Prints da 1ª Fase do projeto
 
 ![Print 1](img/print_1.png)
 ![Print 2](img/print_2.png)
 ![Print 3](img/print_3.png)
 ![Print 4](img/print_4.png)
+
+### Prints da 2ª Fase do projeto
+![Print 5](img/print_5.png)
+![Print 6](img/print_6.png)
+![Print 7](img/print_7.png)
+![Print 8](img/print_8.png)
