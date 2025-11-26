@@ -4,6 +4,10 @@ typedef struct {
     float x, z;
     float yawDeg;
     float shirt[3];
+
+    float armSwing;
+    float legSwing;
+    float animPhase;
 } Player;
 
 #define NUM_PLAYERS 6
